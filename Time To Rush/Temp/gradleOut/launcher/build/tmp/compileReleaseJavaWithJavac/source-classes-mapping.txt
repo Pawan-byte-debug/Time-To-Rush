@@ -1,0 +1,2 @@
+com/RoyalRaider/TimeToRush/BuildConfig.java
+ com.RoyalRaider.TimeToRush.BuildConfig

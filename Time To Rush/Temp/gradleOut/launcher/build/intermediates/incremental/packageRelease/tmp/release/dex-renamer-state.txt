@@ -1,0 +1,4 @@
+#Wed Feb 03 12:37:23 IST 2021
+base.0=D\:\\Unity\\Time To Rush\\Development\\Time-To-Rush\\Time To Rush\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

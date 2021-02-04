@@ -611,22 +611,18 @@
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
       <Project>{41ed14f9-db78-18ba-a9ba-773003279129}</Project>
       <Name>UnityEditor.TestRunner</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.TestRunner.csproj">
       <Project>{53555303-03c4-c002-2962-eda9e2391612}</Project>
       <Name>UnityEngine.TestRunner</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.UI.csproj">
       <Project>{bc5e6ab9-501f-c64b-df81-42ce24665d50}</Project>
       <Name>UnityEditor.UI</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
       <Project>{57aa6425-41b9-d780-7e66-37131846badf}</Project>
       <Name>UnityEngine.UI</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

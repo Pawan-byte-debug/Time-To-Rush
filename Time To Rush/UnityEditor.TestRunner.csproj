@@ -747,7 +747,6 @@
     <ProjectReference Include="UnityEngine.TestRunner.csproj">
       <Project>{53555303-03c4-c002-2962-eda9e2391612}</Project>
       <Name>UnityEngine.TestRunner</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

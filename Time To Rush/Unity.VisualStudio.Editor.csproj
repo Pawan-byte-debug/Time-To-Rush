@@ -36,31 +36,32 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.3\Editor\VisualStudioInstallation.cs" />
-     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.3\Editor\Messaging\Deserializer.cs" />
-     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.3\Editor\Messaging\Messenger.cs" />
-     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.3\Editor\SolutionProjectEntry.cs" />
-     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.3\Editor\Symbols.cs" />
-     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.3\Editor\Solution.cs" />
-     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.3\Editor\SolutionParser.cs" />
-     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.3\Editor\Image.cs" />
-     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.3\Editor\Messaging\Message.cs" />
-     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.3\Editor\ProjectGeneration\AssemblyNameProvider.cs" />
-     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.3\Editor\Messaging\MessageEventArgs.cs" />
-     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.3\Editor\Messaging\MessageType.cs" />
-     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.3\Editor\VisualStudioEditor.cs" />
-     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.3\Editor\ProjectGeneration\ProjectGeneration.cs" />
-     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.3\Editor\Messaging\UdpSocket.cs" />
-     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.3\Editor\ProjectGeneration\GUIDProvider.cs" />
-     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.3\Editor\SolutionProperties.cs" />
-     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.3\Editor\VisualStudioIntegration.cs" />
-     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.3\Editor\ProjectGeneration\FileIOProvider.cs" />
-     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.3\Editor\Discovery.cs" />
-     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.3\Editor\ProjectGeneration\ProjectGenerationFlag.cs" />
-     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.3\Editor\FileUtility.cs" />
-     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.3\Editor\Messaging\Serializer.cs" />
-     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.3\Editor\Messaging\ExceptionEventArgs.cs" />
-     <None Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.3\Editor\com.unity.ide.visualstudio.asmdef" />
+     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.5\Editor\VisualStudioInstallation.cs" />
+     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.5\Editor\Messaging\Deserializer.cs" />
+     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.5\Editor\Messaging\Messenger.cs" />
+     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.5\Editor\SolutionProjectEntry.cs" />
+     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.5\Editor\Symbols.cs" />
+     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.5\Editor\Solution.cs" />
+     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.5\Editor\SolutionParser.cs" />
+     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.5\Editor\AssemblyInfo.cs" />
+     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.5\Editor\Image.cs" />
+     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.5\Editor\Messaging\Message.cs" />
+     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.5\Editor\ProjectGeneration\AssemblyNameProvider.cs" />
+     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.5\Editor\Messaging\MessageEventArgs.cs" />
+     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.5\Editor\Messaging\MessageType.cs" />
+     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.5\Editor\VisualStudioEditor.cs" />
+     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.5\Editor\ProjectGeneration\ProjectGeneration.cs" />
+     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.5\Editor\Messaging\UdpSocket.cs" />
+     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.5\Editor\ProjectGeneration\GUIDProvider.cs" />
+     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.5\Editor\SolutionProperties.cs" />
+     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.5\Editor\VisualStudioIntegration.cs" />
+     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.5\Editor\ProjectGeneration\FileIOProvider.cs" />
+     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.5\Editor\Discovery.cs" />
+     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.5\Editor\ProjectGeneration\ProjectGenerationFlag.cs" />
+     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.5\Editor\FileUtility.cs" />
+     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.5\Editor\Messaging\Serializer.cs" />
+     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.5\Editor\Messaging\ExceptionEventArgs.cs" />
+     <None Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.5\Editor\com.unity.ide.visualstudio.asmdef" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
@@ -612,22 +613,18 @@
     <ProjectReference Include="UnityEditor.UI.csproj">
       <Project>{bc5e6ab9-501f-c64b-df81-42ce24665d50}</Project>
       <Name>UnityEditor.UI</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
       <Project>{57aa6425-41b9-d780-7e66-37131846badf}</Project>
       <Name>UnityEngine.UI</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
       <Project>{41ed14f9-db78-18ba-a9ba-773003279129}</Project>
       <Name>UnityEditor.TestRunner</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.TestRunner.csproj">
       <Project>{53555303-03c4-c002-2962-eda9e2391612}</Project>
       <Name>UnityEngine.TestRunner</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
